@@ -7,7 +7,7 @@ nav {
   top: 0;
   background-color: transparent;
   width: 100%;
-  z-index: 99;
+  z-index: 10;
   padding: 0 0 0 10%;
 }
 
@@ -73,10 +73,11 @@ nav {
     background: transparent;
     backdrop-filter: blur(0);
     width: auto;
+    
   }
 
   .menu {
-    margin: 40% 15% !important;
+    margin: 4% 5% !important;
     padding: 0;
     transition: transform 0.5s ease-in-out;
     display: none;
@@ -133,7 +134,7 @@ nav {
     transition: all 0.3s ease-in-out;
     background: rgba(0, 0, 0, 0.8);
     backdrop-filter: blur(10px);
-    height: 110vh;
+    height: 400px;
     position: fixed;
     width: 100%;
     justify-content: flex-start;

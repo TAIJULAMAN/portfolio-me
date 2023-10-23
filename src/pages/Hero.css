@@ -5,14 +5,14 @@
   flex-direction: column;
   justify-content: center;
   gap: 10%;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 
 .hero-overlay {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 10% 0 0;
+  /* padding: 5% 0 0; */
 }
 
 .description {
@@ -70,7 +70,8 @@
 }
 
 .lets-talk {
-  background: transparent;
+  border-color: #cb450c;
+  /* background: transparent; */
   color: white;
 }
 
@@ -87,7 +88,7 @@
   justify-content: center;
   border-radius: 50%;
   text-decoration: none;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .social-icons a i {

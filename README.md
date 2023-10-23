@@ -1,12 +1,12 @@
 <a name="readme-top"></a>
 
-<h1 align='center'> Portfolio - Prantosh Biswas 🤘 </h1>
+<h1 align='center'> Portfolio - MD SHAH AMAN </h1>
 
 
 # Table of Contents
 
 - [Table of Contents](#-table-of-contents)
-- [ Portfolio - Prantosh Biswas 🤘](#-about-project-)
+- [ Portfolio - MD SHAH AMAN](#-about-project-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -23,9 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# Portfolio - Prantosh Biswas 🤘 <a name="about-project"></a>
+# Portfolio - MD SHAH AMAN <a name="about-project"></a>
 
-This Personal Portfolio is a dynamic and interactive portfolio website built with React and Redux in the Front-End and Jekyll in the Back-End. It provides a modern and visually appealing platform for showcasing your skills, projects, and achievements to potential employers or clients.
+This Personal Portfolio is a dynamic and interactive portfolio website built with React. It provides a modern and visually appealing platform for showcasing your skills, projects, and achievements to potential employers or clients.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -39,8 +39,6 @@ This Personal Portfolio is a dynamic and interactive portfolio website built wit
   </ul>
 </details>
 
-### App Screenshot
-![screenshot](https://github.com/PrantoshB/React-Portfolio/blob/main/Screenshot%20from%202023-07-01%2022-15-34.png)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -77,7 +75,7 @@ Clone this repository using the GitHub link provided below.
 In the terminal, go to your file directory and run this command.
 
 ```
-$ git clone https://github.com/PrantoshB/Prantosh-Biswas.git
+$ git clone https://github.com/TAIJULAMAN/portfolio-me.git
 ```
 
 
@@ -106,10 +104,9 @@ You may also see any lint errors in the console.
 
 👤 **Prantosh Biswas**
 
-- GitHub: [@PrantoshB](https://github.com/PrantoshB)
-- Twitter: [@prantalks](https://twitter.com/prantalks)
-- LinkedIn: [Prantosh Biswas](https://linkedin.com/in/prantosh)
-- Youtube: [Pran Talks](https://www.youtube.com/@prantalks)
+- GitHub: [@PrantoshB](https://github.com/TAIJULAMAN/)
+- LinkedIn: [Prantosh Biswas](https://www.linkedin.com/in/shahamanpatwary/)
+
 
 
 
@@ -141,7 +138,3 @@ This project is copyright free. But I'll be grateful if you consider mentioning 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<h2>Support if you can 💗</h2>
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/prantosh)
