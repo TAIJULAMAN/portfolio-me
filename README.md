@@ -102,10 +102,10 @@ You may also see any lint errors in the console.
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Prantosh Biswas**
+👤 **MD SHAH AMAN**
 
-- GitHub: [@PrantoshB](https://github.com/TAIJULAMAN/)
-- LinkedIn: [Prantosh Biswas](https://www.linkedin.com/in/shahamanpatwary/)
+- GitHub: [@TAiJULAMAN](https://github.com/TAIJULAMAN/)
+- LinkedIn: [MD SHAH AMAN](https://www.linkedin.com/in/shahamanpatwary/)
 
 
 
